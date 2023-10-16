@@ -82,7 +82,7 @@
                     yName: 'y',
                     fill: 'DodgerBlue',
                     name: 'Placements',
-                    columnWidth: 0.4,
+                    columnWidth: 0.5,
                 },
                 {
                     type: 'Spline',
