@@ -3,7 +3,7 @@
     import Metric from "./metric.svelte";
     import Time from './time.svelte';
     import Placement from "./placement.svelte"
-	import Rejected from "./rejectedreasons.svelte";
+    import Rejected from "./rejectedreasons.svelte";
   
 
 </script>
