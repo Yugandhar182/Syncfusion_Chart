@@ -102,6 +102,7 @@
                     columnSpacing: 0.2,
                     name: 'Bob Shaw',
                     fill: 'DodgerBlue',
+                    columnWidth: 0.5,
                 },
                 {
                     type: 'StackingColumn',
@@ -112,6 +113,7 @@
                     columnSpacing: 0.2,
                     name: 'Andy Barnes',
                     fill: 'Tomato',
+                    columnWidth: 0.5,
                 },
                 {
                     type: 'StackingColumn',
@@ -122,6 +124,7 @@
                     columnSpacing: 0.2,
                     name: 'Gary Williams',
                     fill: 'MediumSeaGreen',
+                    columnWidth: 0.5,
                 },
             ],
         
