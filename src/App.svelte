@@ -20,7 +20,7 @@
 
 <style>
     .main-container {
-        background-color:rgba(227, 230, 233, 0.5);
+     
         width: 1520px;
         height: 1800px;
         margin-left:0px;
